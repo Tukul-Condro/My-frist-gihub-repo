@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    padding:0;
 }
 .header{
     
@@ -14,7 +14,6 @@ h1{
     font-weight:bolder;
     text-align: center;
     font-size: 50px;
-    
     padding: 30px;
 
 }
@@ -25,3 +24,25 @@ p{
     border-top: 2px solid rgb(11, 72, 255);
     text-align: center;
 }
+.right{
+    padding: px;
+}
+
+ul{
+ 
+}
+li{
+    padding: 5px;
+    color: rgb(118, 4, 224);
+    background-color: rgba(12, 200, 12, 0.767);
+    margin:3px;
+    
+}
+
+
+
+
+
+
+
+
