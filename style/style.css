@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    
+}
+.headerh{
+    background-color: rgb(255, 47, 47);
+}
+h1{
+    color: darkgreen;
+    font-style:italic;
+    font-weight:bolder;
+    text-align: center;
+    font-size: 50px;
+    
+    padding: 30px;
+
+}
+p{
+    color: royalblue;
+    background-color: bisque;
+    padding: 5px;
+    border-top: 2px solid rgb(11, 72, 255);
+    text-align: center;
+}
